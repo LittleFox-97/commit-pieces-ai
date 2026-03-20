@@ -1,3 +1,24 @@
+## [v3.1.1] - 2026-03-20
+### Chores
+- [`ec20828`](https://github.com/FrancoStino/commit-pieces-ai/commit/ec2082845656f74b765b13fd75339782a896ac7e) - **deps**: bump js-yaml in the npm_and_yarn group across 1 directory *(commit by [@dependabot[bot]](https://github.com/apps/dependabot))*
+
+### Other Changes
+- [`2665286`](https://github.com/FrancoStino/commit-pieces-ai/commit/266528622f7fb44edde839c6047a742052c76674) - Merge pull request [#7](https://github.com/FrancoStino/commit-pieces-ai/pull/7) from FrancoStino/dependabot/npm_and_yarn/npm_and_yarn-392d5e510b
+
+chore(deps-dev): bump esbuild from 0.24.2 to 0.25.0 in the npm_and_yarn group across 1 directory *(commit by [@FrancoStino](https://github.com/FrancoStino))*
+- [`05c4717`](https://github.com/FrancoStino/commit-pieces-ai/commit/05c4717cfa6604e3109e5d91f267930c60e5483a) - Update package.json *(commit by [@FrancoStino](https://github.com/FrancoStino))*
+- [`0cf9d7e`](https://github.com/FrancoStino/commit-pieces-ai/commit/0cf9d7ed4baf466c409e40e37e05469a5de6b027) - Merge pull request [#8](https://github.com/FrancoStino/commit-pieces-ai/pull/8) from FrancoStino/develop
+
+Develop *(commit by [@FrancoStino](https://github.com/FrancoStino))*
+- [`92b16b3`](https://github.com/FrancoStino/commit-pieces-ai/commit/92b16b327fc25b6ba021e04600715eaa284cfe18) - Merge pull request [#9](https://github.com/FrancoStino/commit-pieces-ai/pull/9) from FrancoStino/dependabot/npm_and_yarn/npm_and_yarn-3c67cbb9cd
+
+chore(deps): bump js-yaml from 4.1.0 to 4.1.1 in the npm_and_yarn group across 1 directory *(commit by [@FrancoStino](https://github.com/FrancoStino))*
+- [`6a6e84b`](https://github.com/FrancoStino/commit-pieces-ai/commit/6a6e84b77cad770e89eeece5e1d0df6d92f80d77) - Update README.md *(commit by [@FrancoStino](https://github.com/FrancoStino))*
+- [`daf1a9f`](https://github.com/FrancoStino/commit-pieces-ai/commit/daf1a9fd321883ca52bfcdbdf887c72a15bf1c60) - Merge pull request [#10](https://github.com/FrancoStino/commit-pieces-ai/pull/10) from FrancoStino/develop
+
+Update README.md *(commit by [@FrancoStino](https://github.com/FrancoStino))*
+
+
 ## [v3.1.2] - 2025-12-02
 ### Other Changes
 - [`1485771`](https://github.com/FrancoStino/commit-pieces-ai/commit/14857712e10d011cd9ef61dadddbd9d333fd0d50) - Update package.json *(commit by [@FrancoStino](https://github.com/FrancoStino))*
@@ -338,3 +359,4 @@ Develop _(commit by [@FrancoStino](https://github.com/FrancoStino))_
 [v3.0.3]: https://github.com/FrancoStino/commit-pieces-ai/compare/v3.0.2...v3.0.3
 [v3.1.1]: https://github.com/FrancoStino/commit-pieces-ai/compare/v3.1.0...v3.1.1
 [v3.1.2]: https://github.com/FrancoStino/commit-pieces-ai/compare/v3.1.1...v3.1.2
+[v3.1.1]: https://github.com/FrancoStino/commit-pieces-ai/compare/v3.1.0...v3.1.1
